@@ -1,1 +1,1 @@
-this is a signup file
+this is a signupconflict message file
